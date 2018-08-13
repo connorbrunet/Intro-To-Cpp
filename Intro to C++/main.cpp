@@ -1,3 +1,5 @@
+//square
+
 #include <iostream>
 
 int main()
